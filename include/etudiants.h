@@ -6,7 +6,10 @@ class Etudiants
 {
 	public:
     	Etudiants();
+    	Etudiants(unsigned int cle, unsigned int info);
 		~Etudiants();
+
+		void afficher();
 
   		unsigned int getCle();
   		void setCle(unsigned int val);

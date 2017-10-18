@@ -3,6 +3,7 @@
 	<FileVersion major="1" minor="6" />
 	<Project>
 		<Option title="LIFAP6" />
+		<Option makefile="makefile" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -13,6 +14,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
+					<Add directory="include" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -22,6 +24,7 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-O2" />
+					<Add directory="include" />
 				</Compiler>
 				<Linker>
 					<Add option="-s" />
@@ -31,6 +34,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="include/case.h" />
+		<Unit filename="include/etudiants.h" />
+		<Unit filename="include/table.h" />
+		<Unit filename="src/case.cpp" />
+		<Unit filename="src/etudiants.cpp" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="src/table.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

@@ -11,3 +11,32 @@
 
 1508333040 /home/etu/p1505614/Desktop/LIFAP6-Algo/LIFAP6/include/table.h
 
+1508339392 source:c:\users\nelly\documents\etudes\04-fac\l3-informatique\s5\complexite\tp\tp5\lifap6\src\etudiants.cpp
+	<iostream>
+	<stdlib.h>
+	"../include/etudiants.h"
+
+1508339392 c:\users\nelly\documents\etudes\04-fac\l3-informatique\s5\complexite\tp\tp5\lifap6\include\etudiants.h
+
+1508342632 source:c:\users\nelly\documents\etudes\04-fac\l3-informatique\s5\complexite\tp\tp5\lifap6\src\main.cpp
+	<iostream>
+	<stdlib.h>
+	"../include/etudiants.h"
+	"../include/table.h"
+
+1508342596 source:c:\users\nelly\documents\etudes\04-fac\l3-informatique\s5\complexite\tp\tp5\lifap6\src\table.cpp
+	<math.h>
+	<cstddef>
+	"../include/table.h"
+	"../include/etudiants.h"
+
+1508342285 c:\users\nelly\documents\etudes\04-fac\l3-informatique\s5\complexite\tp\tp5\lifap6\include\table.h
+	"case.h"
+
+1508342492 source:c:\users\nelly\documents\etudes\04-fac\l3-informatique\s5\complexite\tp\tp5\lifap6\src\case.cpp
+	"case.h"
+
+1508342553 c:\users\nelly\documents\etudes\04-fac\l3-informatique\s5\complexite\tp\tp5\lifap6\include\case.h
+	<iostream>
+	"etudiants.h"
+
