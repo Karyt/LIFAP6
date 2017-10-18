@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508335033 source:/home/etu/p1505614/Desktop/LIFAP6-Algo/LIFAP6/src/etudiants.cpp
+	"etudiants.h"
+
+1508334986 /home/etu/p1505614/Desktop/LIFAP6-Algo/LIFAP6/include/etudiants.h
+
+1508329926 source:/home/etu/p1505614/Desktop/LIFAP6-Algo/LIFAP6/src/main.cpp
+
+1508331864 source:/home/etu/p1505614/Desktop/LIFAP6-Algo/LIFAP6/src/table.cpp
+	"table.h"
+
+1508333040 /home/etu/p1505614/Desktop/LIFAP6-Algo/LIFAP6/include/table.h
+
